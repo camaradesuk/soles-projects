@@ -22,7 +22,7 @@
             <ul class="list-inline item-details">
               {% if post.client %}
               <li>Link:
-                <strong>{{ post.client }}</strong>
+                <a href="{{ post.client }}"><strong>{{ post.client }}</strong></a>
               </li>
               {% endif %}
               {% if post.project-date %}

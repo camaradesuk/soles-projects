@@ -2,7 +2,7 @@
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: sprint-soles.jpg
+img: sprint_banner.png
 alt: image-alt
 client: https://camarades.shinyapps.io/SPRINT-SOLES-v2/
 category: Hair, K., Smith, S., Macleod, M., Scheepers, P. SPRINT-SOLES

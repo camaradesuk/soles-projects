@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: psychosis-soles.jpg
+img: psychosis_v2.jpg
 alt: image-alt
 client: https://camarades.shinyapps.io/psychosis-soles/
 category: Smith, S., Ramage, F., Tinsdeall, F., Hair, K., Macleod, M. Psychosis-SOLES

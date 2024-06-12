@@ -6,6 +6,6 @@ img: stroke-soles.jpg
 alt: image-alt
 project-date: April 2014
 client: https://camarades.shinyapps.io/stroke-soles/
-category: Hair, K., Wilson, E., Wong, C., Tsang, A., Macleod, M. R., & Bannach-Brown, A. Systematic online living evidence summaries: emerging tools to accelerate evidence synthesis. Clin Sci (Lond)
+category: Hair, K., Wilson, E., Wong, C., Tsang, A., Macleod, M. R., & Bannach-Brown
 description: A systematic onling living evidence summary of in vivo stroke research.
 ---

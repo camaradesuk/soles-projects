@@ -4,6 +4,7 @@ modal-id: 6
 date: 2014-07-15
 img: ndc.jpg
 alt: image-alt
+project-date: emma.wilson@ed.ac.uk
 client: https://camarades.shinyapps.io/NDC-SOLES/
 category: Hair, K., Wilson, E., Wong, C., Tsang, A., Macleod, M. R., & Bannach-Brown, A.
 description: A Systematic Online Living Evidence Summary for in-vivo research in neurodevelopmental conditions.

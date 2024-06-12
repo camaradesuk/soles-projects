@@ -5,7 +5,7 @@ date: 2014-07-15
 img: sprint_v3.jpg
 alt: image-alt
 client: https://camarades.shinyapps.io/SPRINT-SOLES-v2/
-project-date: kaitlyn.hair@ed.ac.ukj
+project-date: kaitlyn.hair@ed.ac.uk
 category: Hair, K., Smith, S., Macleod, M., Scheepers, P. SPRINT-SOLES
 description: A Systematic Online Living Evidence Summary to assess integrated risks and impacts of plant protection products (incl. pesticides) on environment and human health.
 ---

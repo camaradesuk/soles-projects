@@ -4,8 +4,7 @@ modal-id: 2
 date: 2014-07-17
 img: psychosis-soles.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+client: https://camarades.shinyapps.io/psychosis-soles/
+category: Smith, S., Ramage, F., Tinsdeall, F., Hair, K., Macleod, M. Psychosis-SOLES
 description: A systematic onling living evidence summary of in-vivo psychosis research.
 ---

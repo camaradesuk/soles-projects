@@ -5,6 +5,6 @@ img: ad-soles.jpg
 alt: ad-soles.jpg
 project-date: April 2014
 client: https://camarades.shinyapps.io/AD-SOLES/
-date: Hair, K., Wilson, E., Wong, C., Tsang, A., Macleod, M. R., & Bannach-Brown, A. (2022, August 18). Systematic Online Living Evidence Summaries: emerging tools to accelerate evidence synthesis. https://doi.org/10.31222/osf.io/nbe5q
+date: 
 description: A Systematic Online Living Evidence Summary for in vivo Alzheimer's disease research. 
 ---

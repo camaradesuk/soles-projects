@@ -3,7 +3,6 @@ layout: default
 modal-id: 1
 img: ad-soles.jpg
 alt: ad-soles.jpg
-project-date: April 2014
 client: https://camarades.shinyapps.io/AD-SOLES/
 category: Hair, K., Wilson, E., Wong, C., Tsang, A., Macleod, M. R., & Bannach-Brown, A. (2022, August 18)
 description: A Systematic Online Living Evidence Summary for in vivo Alzheimer's disease research. 

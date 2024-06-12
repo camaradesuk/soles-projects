@@ -2,7 +2,7 @@
 layout: default
 modal-id: 5
 date: 2014-07-14
-img: iRISE-soles.jpg
+img: iRISE_logo_light_rect.png
 alt: image-alt
 client: https://camarades.shinyapps.io/irise-soles/
 category: Kaitlyn Hair, Sean Smith, Ivan Buljan, Carlijn R. Hooijmans, Malcolm R. Macleod, Ana Marušić, Dora Pejdo, Torsten Rackoll, Kimberley E. Wever, Sarah Wendt, Sarah McCann, and Emily S. Sena on behalf of the iRISE consortium (2023)

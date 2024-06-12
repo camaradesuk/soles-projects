@@ -4,7 +4,6 @@ modal-id: 4
 date: 2014-07-15
 img: depression-soles.jpg
 alt: image-alt
-project-date: April 2014
 client: https://camarades.shinyapps.io/depression-soles/
 category: Smith, S., Hair, K., Macleod, M., Bannach-Brown, B., Depression-SOLES
 description: A systematic onling living evidence summary of in-vivo depression research.

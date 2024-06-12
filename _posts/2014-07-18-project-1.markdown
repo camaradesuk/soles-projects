@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 1
-img: ad-soles.jpg
+img: ad_v2.jpg
 alt: ad-soles.jpg
 client: https://camarades.shinyapps.io/AD-SOLES/
 category: Hair, K., Wilson, E., Wong, C., Tsang, A., Macleod, M. R., & Bannach-Brown, A. (2022, August 18)

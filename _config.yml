@@ -33,9 +33,9 @@ color:
 # Footer settings
 footer:
   copyright: Dr. Henry Jekyll
-  location: Location
+  location: Contact
   social: Around the Web
-  credits: Credits
+  credits: Citation
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -45,7 +45,7 @@ social:
     url: https://github.com/camaradesuk/solesR
 
 # Postal address (add as many lines as necessary)
-contact:
+location:
   - line: Email the SOLES development team:
   - line: soles.updates@gmail.com
 

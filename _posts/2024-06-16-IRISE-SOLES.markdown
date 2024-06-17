@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 1
-date: 2024-06-17
+date: 2024-06-16
 img: irise_soles.jpg
 alt: IRISE SOLES logo
 link: https://camarades.shinyapps.io/irise-soles/

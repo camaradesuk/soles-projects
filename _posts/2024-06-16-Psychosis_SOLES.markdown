@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 6
-date: 2024-06-17
+date: 2024-06-16
 img: psychosis_soles.jpg
 alt: Psychosis SOLES logo
 link: https://camarades.shinyapps.io/psychosis-soles/

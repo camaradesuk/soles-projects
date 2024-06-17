@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 4
-date: 2024-06-17
+date: 2024-06-16
 img: depression_soles.jpg
 alt: Depression SOLES logo
 link: https://camarades.shinyapps.io/depression-soles/

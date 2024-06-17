@@ -22,7 +22,7 @@
             <ul class="list-inline item-details">
               {% if post.link %}
               <li>Link:
-                <strong>{{ post.link }}</strong>
+                <a href="{{ post.link }}"><strong>{{ post.link }}</strong></a>
               </li>
               {% endif %}
               {% if post.contact %}

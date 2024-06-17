@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 2
-date: 2024-06-17
+date: 2024-06-16
 img: sprint_soles.jpg
 alt: SPRINT SOLES logo
 link: https://camarades.shinyapps.io/SPRINT-SOLES-v2/

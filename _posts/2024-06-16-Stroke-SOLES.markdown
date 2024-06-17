@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 5
-date: 2024-06-17
+date: 2024-06-16
 img: stroke_soles.jpg
 alt: Stroke SOLES logo
 link: https://camarades.shinyapps.io/stroke-soles/

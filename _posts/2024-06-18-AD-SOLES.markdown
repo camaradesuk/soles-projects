@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 7
-date: 2024-06-17
+date: 2024-06-18
 img: ad_soles.jpg
 alt: AD SOLES logo
 link: https://camarades.shinyapps.io/ad-soles/

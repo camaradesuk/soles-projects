@@ -1,10 +1,10 @@
 ---
 layout: default
 modal-id: 3
-date: 2024-06-17
+date: 2024-06-16
 img: ndc_soles.jpg
 alt: NDC SOLES logo
-link: https://camarades.shinyapps.io/ndc-soles/
+link: [https://camarades.shinyapps.io/ndc-soles/](https://camarades.shinyapps.io/ndc-soles/)
 contact: emma.wilson [at] ed.ac.uk
 description: A Systematic Online Living Evidence Summary for in vivo research in neurodevelopmental conditions.
 ---

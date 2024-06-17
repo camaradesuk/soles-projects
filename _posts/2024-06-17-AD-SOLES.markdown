@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 7
+date: 2024-06-17
+img: ad_soles.jpg
+alt: AD SOLES logo
+link: https://camarades.shinyapps.io/ad-soles/
+contact: kaitlyn.hair [at] ed.ac.uk
+description: A Systematic Online Living Evidence Summary for in vivo research in Alzheimer's disease research.

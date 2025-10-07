@@ -1,7 +1,7 @@
 ---
 layout: default
-modal-id: 1
-date: 2023-10-07
+modal-id: 8
+date: 2025-10-07
 img: cancer_soles.jpg
 alt: Cancer-SOLES
 link: https://camarades.shinyapps.io/cancer-soles/

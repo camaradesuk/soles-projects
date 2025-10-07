@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 1
+date: 2025-10-07
+img: cancer_soles.jpg
+alt: Cancer-SOLES
+link: https://camarades.shinyapps.io/cancer-soles/
+contact: maria.economou@bih-charite.de
+cite: citation
+description: description
+---
